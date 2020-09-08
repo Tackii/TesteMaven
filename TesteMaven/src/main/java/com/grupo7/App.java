@@ -33,7 +33,7 @@ public class App {
                 String marca = csvRecord.get(1);
                 String cor = csvRecord.get(2);
                 String categoria = csvRecord.get(3);
-
+				// Tutui adicionou conteudo aqui *u*
                 System.out.println("Record No - " + csvRecord.getRecordNumber());
                 System.out.println("---------------");
                 System.out.println("Placa : " + placa);
