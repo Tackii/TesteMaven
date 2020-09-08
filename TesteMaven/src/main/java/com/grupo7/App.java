@@ -18,7 +18,7 @@ Para executar no Linux: java -cp .:commons-csv-1.7.jar App
 Para executar: java -cp .;.\commons-csv-1.7.jar App.java
 */
 
-//Salbego esteve aqui :)
+//Alteracao Lucas Salbego :)
 public class App {
     private static final String SAMPLE_CSV_FILE_PATH = "veiculos.dat";
 
